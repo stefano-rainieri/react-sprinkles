@@ -2,7 +2,7 @@
   "name": "sprinkle",
   "version": "0.0.1",
   "description": "Sprinkles of React",
-  "main": "index.html",
+  "main": "src/index.html",
   "author": "Stefano Rainieri <stefano.rainieri@fazland.com>",
   "license": "MIT",
   "private": true,
